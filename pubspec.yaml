@@ -1,5 +1,5 @@
-name: phosphor_icons
-description: Phosphor Icon package for flutter.
+name: flutter_phosphor_icons
+description: Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 version: 0.0.1
 author:
 homepage:
@@ -18,6 +18,6 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: Schyler
+    - family: Phosphor
       fonts:
-        - asset: fonts/TrajanPro.ttf
+        - asset: fonts/Phosphor.ttf

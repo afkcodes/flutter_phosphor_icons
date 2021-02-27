@@ -1,5 +1,5 @@
 const fs = require("fs");
-const inputFile = "./../font/phosphor-codes.scss";
+const inputFile = "./../fonts/phosphor-codes.scss";
 let raw_icons;
 let raw_codes;
 let icons = [];
@@ -45,10 +45,8 @@ class PhosphorIcons{
 tempDartClass.push(phosphorClassStart);
 
 raw_icons.forEach((el, index) => {
-  let obj = {};
   let name = el.replace("ph-", "").replace(/-/g, "_");
   let code = `${raw_codes[index].replace("\\", "0x")}`;
-  // icons.push(obj);
   tempDartClass.push(
     `static const IconData ${name} = PhosphorIconsData(${code});\n`
   );

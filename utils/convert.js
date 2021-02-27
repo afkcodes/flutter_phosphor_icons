@@ -34,8 +34,8 @@ class PhosphorIconsData extends IconData {
   const PhosphorIconsData(int code)
       : super(
           code,
-          fontFamily: 'Phosphoricons',
-          fontPackage: 'phosphoricons',
+          fontFamily: 'Phosphor',
+          fontPackage: 'flutter_phosphor_icons',
         );
 }
 

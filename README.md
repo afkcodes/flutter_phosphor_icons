@@ -52,7 +52,7 @@ import 'package:flutter_phosphor_icons/flutter_phosphor_icons.dart';
 
 ## Screenshot
 
-<img src="https://github.com/afkcodes/flutter_phosphor_icons/blob/master/meta/screen.png" width="300" height="600" />
+![Screenshot](https://github.com/afkcodes/flutter_phosphor_icons/blob/master/meta/screen.png)
 
 ## Support Me
 

@@ -1,4 +1,4 @@
-<img src="/meta/phosphor-mark-tight-yellow.png" width="128" align="right" />
+<img src="https://github.com/afkcodes/flutter_phosphor_icons/blob/master/meta/phosphor-mark-tight-yellow.png" width="128" align="right" />
 
 # Flutter Phosphor Icons
 
@@ -18,7 +18,7 @@ Now available for flutter.
 
 ```dart
 // Import the package
-import 'package:flutter_phosphor_icons/phosphor_icons.dart';
+import 'package:flutter_phosphor_icons/flutter_phosphor_icons.dart';
 
 // Use the icons from the package
     Container(
@@ -51,8 +51,15 @@ import 'package:flutter_phosphor_icons/phosphor_icons.dart';
 ```
 
 ## Screenshot
-![Screenshot](https://github.com/afkcodes/flutter_phosphor_icons/blob/master/meta/screen.png)
 
+<img src="https://github.com/afkcodes/flutter_phosphor_icons/blob/master/meta/screen.png" width="300" height="600" />
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/afkcodes" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="200" height="80"
+alt="Buy Me A Coffee" >
+</a>
 
 ## Related Projects
 
@@ -61,5 +68,7 @@ import 'package:flutter_phosphor_icons/phosphor_icons.dart';
 - [phosphor-icons](https://github.com/phosphor-icons/phosphor-icons) ▲ Phosphor icons for Vanilla JS
 - [phosphor-figma](https://github.com/phosphor-icons/phosphor-figma) ▲ Phosphor icons Figma plugin
 
+
 ## License
+
 MIT © [Phosphor Icons](https://github.com/phosphor-icons)

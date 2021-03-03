@@ -72,10 +72,10 @@ class Home extends StatelessWidget {
                     "Light",
                   ),
                   Text(
-                    "Fill",
+                    "Bold",
                   ),
                   Text(
-                    "Bold",
+                    "Fill",
                   ),
                 ],
               ),

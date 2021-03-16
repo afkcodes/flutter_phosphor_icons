@@ -1,8 +1,7 @@
 const fs = require("fs");
-const inputFile = "./../fonts/phosphor-codes.scss";
+const inputFile = "./../fonts/phosphor-codes.css";
 let raw_icons;
 let raw_codes;
-let icons = [];
 
 const tempDartClass = [];
 
@@ -16,7 +15,7 @@ const readIconsCode = function () {
   return fs
     .readFileSync(inputFile)
     .toString()
-    .match(/\\[a-z](.*)\w+/gm);
+    .match(/\\[a-z0-9](.*)\w+/gm);
 };
 
 raw_icons = readIcons();

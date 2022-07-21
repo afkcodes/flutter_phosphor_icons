@@ -3,7 +3,7 @@
 # Flutter Phosphor Icons
 
 Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really. Explore all our icons at [phosphoricons.com](https://phosphoricons.com).
-Now available for flutter.
+Now available for flutter(with null safety).
 
 [![GitHub stars](https://img.shields.io/github/stars/afkcodes/flutter_phosphor_icons?style=flat-square&label=Star)](https://github.com/afkcodes/flutter_phosphor_icons)
 [![GitHub forks](https://img.shields.io/github/forks/afkcodes/flutter_phosphor_icons?style=flat-square&label=Fork)](https://github.com/afkcodes/flutter_phosphor_icons/fork)

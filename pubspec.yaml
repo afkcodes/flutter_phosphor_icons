@@ -4,8 +4,8 @@ version: 0.0.1+6
 homepage: https://github.com/afkcodes/flutter_phosphor_icons
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: '>=1.17.0'
 
 dependencies:
   flutter:
@@ -20,3 +20,19 @@ flutter:
     - family: Phosphor
       fonts:
         - asset: fonts/Phosphor.ttf
+
+    - family: Phosphor-Bold
+      fonts:
+        - asset: fonts/Phosphor-Bold.ttf
+
+    - family: Phosphor-Fill
+      fonts:
+        - asset: fonts/Phosphor-Fill.ttf
+
+    - family: Phosphor-Thin
+      fonts:
+        - asset: fonts/Phosphor-Thin.ttf
+
+    - family: Phosphor-Light
+      fonts:
+        - asset: fonts/Phosphor-Light.ttf
